@@ -1,0 +1,106 @@
+[
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Cual de los siguientes Sistemas Operativos no maneja interfaz grafica?",
+        "respuesta": "UNIX",
+        "incorrecta1": "Windows 2000",
+        "incorrecta2": "Mac OS",
+        "incorrecta3": "Windows XP",
+        "imagen":"img/unix.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Cual de las siguientes es una funcion de Sistemas Operativos?",
+        "respuesta": "Todas las anteriores",
+        "incorrecta1": "Controlar el funcionamiento correcto del PC",
+        "incorrecta2": "Proporcionar una interfaz",
+        "incorrecta3": "Administrar el hardware",
+        "imagen":"img/fun.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Cuales son los archivos que mantienen la estructura del sistema de archivos?",
+        "respuesta": "Los directorios",
+        "incorrecta1": "Los documentos",
+        "incorrecta2": "PNG",
+        "incorrecta3": "Ninguno",
+        "imagen":"img/tree.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿MAC-OS X es un sistema oprativo?",
+        "respuesta": "UNIX",
+        "incorrecta1": "De pago",
+        "incorrecta2": "Derivado de Fedora",
+        "incorrecta3": "Derivado de Windows",
+        "imagen":"img/ios.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Que significa CMD?",
+        "respuesta": "Simbolo de Sistema de Windows",
+        "incorrecta1": "Matematicas para la Informatica",
+        "incorrecta2": "Caracteristicas de la Tarjeta Madre",
+        "incorrecta3": "Todas las anteriores",
+        "imagen":"img/cmd.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Que es linux?",
+        "respuesta": "Un sistema operativo Open Source",
+        "incorrecta1": "El kernel de UNIX",
+        "incorrecta2": "Un programa para el HACKING",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen":"img/linux.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Puedo instalar un sistema operativo desde un USB?",
+        "respuesta": "Si",
+        "incorrecta1": "Es imposible",
+        "incorrecta2": "Talves",
+        "incorrecta3": "Absolutamente no",
+        "imagen":"img/usb.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Cual es la actual version de Windows?",
+        "respuesta": "Windows 11",
+        "incorrecta1": "Windows 12",
+        "incorrecta2": "Windows 11.5",
+        "incorrecta3": "Windows 10",
+        "imagen":"img/11.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "¿Cual de estos es un S-O movil?",
+        "respuesta": "HarnonyOS",
+        "incorrecta1": "Kali linux",
+        "incorrecta2": "Ubuntu",
+        "incorrecta3": "MS-DOS",
+        "imagen":"img/WAWE.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SISTEMAS OPERATIVOS",
+        "pregunta": "Andrid es una distribucion de:",
+        "respuesta": "GNU-LINUX",
+        "incorrecta1": "UNIX",
+        "incorrecta2": "-FREE-BSD",
+        "incorrecta3": "SOLARIS-OS",
+        "imagen":"img/android.jpg",
+        "objectFit": "cover"
+    }
+
+    
+    
+
+]

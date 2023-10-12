@@ -1,0 +1,53 @@
+[
+    {
+        "categoria": "SOFTWARE",
+        "pregunta": "¿Que es un sistema operativo?",
+        "respuesta": "Un administrador e interfaz de la computadora",
+        "incorrecta1": "Un programa para poder accedder a una computadora",
+        "incorrecta2": "El encargado de procesar todos los datos",
+        "incorrecta3": "Windows",
+        "imagen":"img/sit.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SOFTWARE",
+        "pregunta": "¿Cual de estos es considerado la madre de los Sistemas operativos?",
+        "respuesta": "UNIX",
+        "incorrecta1": "MS-DOS",
+        "incorrecta2": "LINUX",
+        "incorrecta3": "Microsoft",
+        "imagen":"img/unix.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SOFTWARE",
+        "pregunta": "¿Que es un sistema operativo libre?",
+        "respuesta": "Gratis en su uso y modificacion",
+        "incorrecta1": "Aquel que es de codigo abierto",
+        "incorrecta2": "WINDOWS",
+        "incorrecta3": "Ninguno de los anteriores",
+        "imagen":"img/libre.jpeg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "SOFTWARE",
+        "pregunta": "¿Que es un programa?",
+        "respuesta": "Conjunto de pasos para realizar una tarea",
+        "incorrecta1": "Un archivo ejecutable",
+        "incorrecta2": "Es el encargado de ejectuar procesos",
+        "incorrecta3": "Un software escrito en lenguaje maquina",
+        "imagen":"img/prog.jpeg",
+        "objectFit": "cover"
+    }
+
+
+
+
+
+
+
+
+
+]
+    
+

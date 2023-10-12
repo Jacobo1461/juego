@@ -1,0 +1,68 @@
+[
+    {
+        "categoria": "PROGRAMACION",
+        "pregunta": "Ensamblador es un lenguaje que opera directamente en el:",
+        "respuesta": "Procesador y su arquitectura",
+        "incorrecta1": "La computadora",
+        "incorrecta2": "El sistema operativo",
+        "incorrecta3": "La Bios",
+        "imagen": "img/ensa.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "PROGRAMACION",
+        "pregunta": "La figura ovalo indica:",
+        "respuesta": "El nicio del programa",
+        "incorrecta1": "El inicio de un bucle",
+        "incorrecta2": "La llamada a un programa externo",
+        "incorrecta3": "Una condicion",
+        "imagen": "img/ovalo.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "PROGRAMACION",
+        "pregunta": "Una figura rectangular indica",
+        "respuesta": "Procesamiento de datos",
+        "incorrecta1": "Entrada de datos",
+        "incorrecta2": "Salida de datos",
+        "incorrecta3": "Lectura de datos por teclado",
+        "imagen": "img/rec.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "PROGRAMACION",
+        "pregunta": "¿Cual fue el primer lenguaje de alto nivel?",
+        "respuesta": "Fortran",
+        "incorrecta1": "Java",
+        "incorrecta2": "Phyton",
+        "incorrecta3": "C#",
+        "imagen":"img/F.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "PROGRAMACION",
+        "pregunta": "¿Que es programacion?",
+        "respuesta": "Dar instrucciones a la computadora",
+        "incorrecta1": "Escribir codigo",
+        "incorrecta2": "Interactuar con la computadora",
+        "incorrecta3": "Todas son correctas",
+        "imagen":"img/que.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "PROGRAMACION",
+        "pregunta": "¿Que es un dato?",
+        "respuesta": "La unidad minima de informacion",
+        "incorrecta1": "Una informacion",
+        "incorrecta2": "Un conjunto de conocimientos",
+        "incorrecta3": "Ninguna",
+        "imagen":"img/dato.jpeg",
+        "objectFit": "cover"
+    }
+
+
+
+
+    
+
+]

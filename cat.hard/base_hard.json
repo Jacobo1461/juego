@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿El hardware sirve para:?",
+        "respuesta": "Utilizar y getionar la informacion",
+        "incorrecta1": "Para obtener informacion de la web",
+        "incorrecta2": "Conectase a internet",
+        "incorrecta3": "Realizar tareas complejas",
+        "imagen": "img/h1.jpeg",
+        "objectFit": "cover"
+        
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Que es el hardware?",
+        "respuesta": "Parte fisica de un ordenador",
+        "incorrecta1": "Parte logica del ordenador",
+        "incorrecta2": "Un dispositivo de entrada",
+        "incorrecta3": "Ninguno",
+        "imagen": "img/hard.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "Que es el CPU",
+        "respuesta": "El cerebro de una computadora",
+        "incorrecta1": "Unidad Central de Procesaminto",
+        "incorrecta2": "Un microprocesador",
+        "incorrecta3": "Todas Son Correctas",
+        "imagen": "img/cpu.png",
+        "objectFit": "cover"
+    },    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Cual de estos es un componente principal de la computadora?",
+        "respuesta": "Disco duro",
+        "incorrecta1": "Camara web",
+        "incorrecta2": "Impresora",
+        "incorrecta3": "Ninguna",
+        "imagen": "img/duro.jpg",
+        "objectFit": "cover"
+    },    
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Que permite la tarjeta de red de una computadora?",
+        "respuesta": "Comunicacion en redes locales",
+        "incorrecta1": "Diseño en imagenes",
+        "incorrecta2": "Trancripcion",
+        "incorrecta3": "Todas Son Correctas",
+        "imagen": "img/red.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Que significa SSD?",
+        "respuesta": "Solid State Drive",
+        "incorrecta1": "Solider Star Drive",
+        "incorrecta2": "Set Stamp Drive",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "img/ssd.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Cual de estos es un dispositivo de entrada?",
+        "respuesta": "Escaner",
+        "incorrecta1": "Monitor",
+        "incorrecta2": "CPU",
+        "incorrecta3": "Impresora",
+        "imagen": "img/scaner.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Que memoria almacena la informacion temporalmente?",
+        "respuesta": "-RAM",
+        "incorrecta1": "-ROM",
+        "incorrecta2": "Disco duro",
+        "incorrecta3": "-USB",
+        "imagen": "img/ram.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "¿Cual es la placa principar en la estructura de un computador?",
+        "respuesta": "La tarjeta madre",
+        "incorrecta1": "La tarjeta de video",
+        "incorrecta2": "La tarjeta de red",
+        "incorrecta3": "La tarjeta de Wifi",
+        "imagen": "img/mare.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "HARDWARE DE COMPUTADORAS",
+        "pregunta": "EL principarl objetivo del overclocking es:",
+        "respuesta": "Obtener un mayor rendimiento",
+        "incorrecta1": "Refrijerar el computador",
+        "incorrecta2": "Mejorar la grafica del computador",
+        "incorrecta3": "Todas son correctas",
+        "imagen": "img/overclock-3.jpg",
+        "objectFit": "cover"
+    }
+    
+
+]

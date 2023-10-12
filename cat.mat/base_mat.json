@@ -1,0 +1,104 @@
+[
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "Los numero binarios estan escritos en base:",
+        "respuesta": "DOS- ( 2 )",
+        "incorrecta1": "UNO- ( 1 )",
+        "incorrecta2": "CUATRO- ( 4 )",
+        "incorrecta3": "Todas Son Correctas",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "La unidad mas pequeña en informatica es el",
+        "respuesta": "Nibble",
+        "incorrecta1": "bit",
+        "incorrecta2": "Gigabite",
+        "incorrecta3": "Todas Son Correctas",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "¿Cual de las siguientes cantidades esta escrito en base hexadecimal?",
+        "respuesta": "F2CA",
+        "incorrecta1": "1587",
+        "incorrecta2": "GAC1",
+        "incorrecta3": "4VHE",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "¿Cuantos bytes hay en un kilobyte?",
+        "respuesta": "1024",
+        "incorrecta1": "1000",
+        "incorrecta2": "2048",
+        "incorrecta3": "Ninguna de las anteriores",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "Los numeros binarios estan compuestos por:",
+        "respuesta": "Unos y ceros  1--0",
+        "incorrecta1": "Ceros y dos 0--2",
+        "incorrecta2": "Dos y unos  2--1",
+        "incorrecta3": "Dos numeros",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "¿Cuantos kilobytes hay en un Gibibyte?",
+        "respuesta": "1024 kilobytes",
+        "incorrecta1": "3072 kilobytes",
+        "incorrecta2": "2048 nibles ",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "¿En que base numerica operan las personas?",
+        "respuesta": "Diez 10",
+        "incorrecta1": "Dieciseis 16",
+        "incorrecta2": "Nueve 9",
+        "incorrecta3": "Infinita",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "¿La computadora procesa al numero 1 como?",
+        "respuesta": "Encendido",
+        "incorrecta1": "Abierto",
+        "incorrecta2": "Apagado",
+        "incorrecta3": "Cerrado",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "La cantidad 1111 en binario expresado en base dieciseis es igual a:",
+        "respuesta": "1111",
+        "incorrecta1": "2222",
+        "incorrecta2": "AAAA",
+        "incorrecta3": "F",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "MATEMATICAS DE LA INFORMATICA",
+        "pregunta": "El sistema numerico octal esta compuesto por los numeros:",
+        "respuesta": "7-5-4-0-1-3-6-2",
+        "incorrecta1": "1-2-3-4-5-6-7-9...",
+        "incorrecta2": "0-1-2-5-7-9-4-6-2",
+        "incorrecta3": "Ninguna es correcta",
+        "imagen": "",
+        "objectFit": "cover"
+    }
+    
+
+]
